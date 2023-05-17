@@ -38,7 +38,7 @@ const AddJob = () => {
     { value: "MongoDB", label: "MongoDB" },
     { value: "Redux", label: "Redux" },
   ];
-//   console.log(user);
+  //   console.log(user);
   return (
     <div className="add-job-container">
       <div className="add-job row">
